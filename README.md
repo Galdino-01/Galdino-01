@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">I'm Matheus Galdino from Brazil !<br>- 🔭 I’m working as Junior Systems Analyst<br>- 📚 I'm currently learning: React and API REST<br>- ⚡ In my free time I play video games.</h4>
+<h4 align="left">I'm Matheus Galdino from Brazil !<br>- 🔭 I’m working as Junior Systems Analyst (Fullstack)<br>- 📚 I'm currently learning: React and API REST<br>- ⚡ In my free time I play video games.</h4>
 
 ###
 
