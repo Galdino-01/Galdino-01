@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">I'm Matheus Galdino from Brazil !<br>- 🔭 I’m working as Junior Systems Analyst (Fullstack)<br>- 📚 I'm currently learning: React and API REST<br>- ⚡ In my free time I play video games.</h4>
+<h4 align="left">I'm Matheus Galdino from Brazil !<br>- 🔭 I’m working as Junior Systems Analyst<br>- 📚 I'm currently learning: React and API REST<br>- ⚡ In my free time I play video games.</h4>
 
 ###
 
@@ -41,7 +41,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Galdino-01&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&date_format=[Y ]M j&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Galdino-01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=false&order=1" height="120" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Galdino-01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=false&order=2" height="120" alt="languages graph"  />
 </div>
 
 ###
