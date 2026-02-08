@@ -1,10 +1,4 @@
-<h1 align="left">hey there 👋</h1>
-
-###
-
-<img align="left" height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" />
-
-###
+<h1 align="left">Hey there! 👋</h1>
 
 <h3 align="left">👨‍💻 About Me</h3>
 
@@ -26,13 +20,18 @@ I'm Matheus Galdino from Brazil 🇧🇷 <br>
 **Languages & Querying**
 <br/>
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/sql-%2300749C.svg?style=plastic&logo=databricks&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2300749C.svg?style=plastic&logo=databricks&logoColor=white)
 
 **Data & Analytics**
 <br/>
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white)
 ![Power BI](https://img.shields.io/badge/powerbi-%23F2C811.svg?style=plastic&logo=powerbi&logoColor=black)
+![Airflow](https://img.shields.io/badge/airflow-%23017CEE.svg?style=plastic&logo=apache-airflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
 
 **Backend & APIs**
 <br/>
