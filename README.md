@@ -1,107 +1,159 @@
 <h1 align="center">Matheus Galdino</h1>
 
 <p align="center">
-Python Backend Developer · Data Engineer · Applied AI
+Backend Developer & Data Engineer | APIs, SQL, BI and Integrations
 </p>
 
 <p align="center">
-Building robust data pipelines, collection systems and APIs at scale.
+Building production backend services, data automations and BI-ready systems for real operations.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=1A5276&center=true&vCenter=true&width=600&lines=Collecting+and+processing+data+at+scale;Building+async+Python+pipelines;Designing+robust+REST+APIs;Orchestrating+workflows+with+Airflow;Turning+raw+data+into+reliable+information" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=1A5276&center=true&vCenter=true&width=760&lines=Building+REST+APIs+and+corporate+integrations;Automating+data+workflows+with+Python+and+SQL;Orchestrating+data+routines+with+Apache+Airflow;Delivering+BI-ready+datasets+and+dashboards;Designing+real-time+systems+with+WebSockets" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a **Python Backend Developer and Data Engineer from Brazil 🇧🇷**, specialized in **large-scale data collection, processing and delivery**.
+I'm a **Backend Developer and Data Engineer from Brazil**, with a full-stack background and a strong focus on **APIs, data/BI, integrations and automation**.
 
-My background combines **data engineering and backend development** — I've built systems end-to-end: from automated data collection via APIs and external systems, through async processing pipelines, to structured databases and analytics dashboards.
+Since 2016, I have worked on websites, landing pages, web scraping, Excel automation, SQL data consolidation and internal business tools. In corporate environments, I have led backend development and owned data/integration initiatives for production on-premise systems, including Apache Airflow orchestration and work across requirements, technical design, implementation, deployment, support and maintenance.
 
-🎓 Currently pursuing a **Postgraduate Degree in Software Engineering for Applied AI**.  
-📍 Brasília, DF — open to remote work.
+I am currently pursuing a **Postgraduate Degree in Software Engineering with Applied AI** and hold a degree in **Big Data and Analytical Intelligence**.
 
 ---
 
-## 🐍 Python
+## Impact
+
+- Supported operations with around **6,000 service interactions/day**
+- Integrated around **10 corporate/external APIs**
+- Delivered around **15 BI dashboards**
+- Created around **25 data automation routines**
+- Worked on production systems covering APIs, BI, WebSockets, chatbots, dashboards, webhooks, audio transcription and internal platforms
+
+---
+
+## Backend & APIs
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-Backend_Services-black?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-Auth-000000?style=for-the-badge&logo=jsonwebtokens)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-Realtime-010101?style=for-the-badge&logo=socket.io)
+![Swagger](https://img.shields.io/badge/Swagger-OpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+I build and maintain REST APIs, real-time services, webhooks and integrations with external platforms, SQL databases and internal systems.
+
+---
+
+## Data Engineering, BI & Automation
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![asyncio](https://img.shields.io/badge/asyncio-Async_Processing-3670A0?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-ORM-red?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![Requests](https://img.shields.io/badge/Requests-HTTP_Client-blue?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-ORM-red?style=for-the-badge)
+![OpenPyXL](https://img.shields.io/badge/OpenPyXL-Excel_Automation-217346?style=for-the-badge)
+![Airflow](https://img.shields.io/badge/Apache_Airflow-Orchestration-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![ETL](https://img.shields.io/badge/ETL-Data_Workflows-informational?style=for-the-badge)
+
+- Data extraction, transformation and consolidation from APIs, SQL databases, spreadsheets and internal systems
+- Apache Airflow orchestration for scheduled data routines, monitoring and retries
+- Automated routines for business, operations, HR, finance and fleet/field processes
+- BI-ready datasets, Power BI dashboards and operational reports
+- Web scraping, Excel automation and SQL-based data preparation
 
 ---
 
-## 🔍 Data Collection & Processing
+## Databases & Persistence
 
-![API Integration](https://img.shields.io/badge/API_Integration-Multi_Source-blue?style=for-the-badge)
-![Web Scraping](https://img.shields.io/badge/Web_Scraping-Data_Mining-darkgreen?style=for-the-badge)
-![ETL Pipelines](https://img.shields.io/badge/ETL-Pipelines-informational?style=for-the-badge)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow)
-![Async Processing](https://img.shields.io/badge/Async-Concurrent_Processing-orange?style=for-the-badge)
-
-I have extensive experience collecting and processing data from multiple sources at scale:
-- **Automated API collection** — pagination, auth flows, rate limit handling, retries
-- **Multi-source ETL** — APIs, Excel files, internal systems, databases
-- **Async pipelines** — concurrent processing with robust error handling and structured logging
-- **Airflow orchestration** — DAGs with monitoring, auto-retries and alerting
-
----
-
-## 🗄️ Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![SQL](https://img.shields.io/badge/SQL-Relational_Data-336791?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Amazon Redshift](https://img.shields.io/badge/Amazon_Redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server)
-![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
+![Knex.js](https://img.shields.io/badge/Knex.js-Database_Query_Builder-orange?style=for-the-badge)
 
-Strong background in relational databases — modeling, advanced queries, replication, and performance optimization for high-volume workloads.
-
----
-
-## ⚙️ Backend & APIs
-
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js)
-![REST API](https://img.shields.io/badge/REST_API-Backend_Services-black?style=for-the-badge)
-![WebSockets](https://img.shields.io/badge/WebSockets-Realtime-black?style=for-the-badge)
+Daily hands-on experience with PostgreSQL, SQL Server, Amazon Redshift, MySQL and SQLite, including relational modeling, queries, migrations, schemas, providers/services and SQL integrations in corporate environments.
 
 ---
 
-## 🐳 DevOps & Tooling
+## Full-Stack Background
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+I can work across the stack when needed: admin interfaces, dashboards, chat screens, forms, authentication flows and internal business systems.
+
+---
+
+## Applied AI & Audio
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![OpenAI Whisper](https://img.shields.io/badge/OpenAI_Whisper-Audio_Transcription-412991?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+Experience building on-premise audio transcription services with Python, Flask, Whisper, background processing, logs, Swagger documentation and Linux/systemd deployment.
+
+---
+
+## Operations & Tooling
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?style=for-the-badge&logo=github-actions)
+![PM2](https://img.shields.io/badge/PM2-Process_Manager-2B037A?style=for-the-badge)
+![Cron](https://img.shields.io/badge/Cron-Scheduled_Jobs-333333?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-Tests-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Pytest](https://img.shields.io/badge/pytest-Tests-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+
+I am used to production ownership: environment variables, logs, scheduled routines, deployment, maintenance and direct communication with business areas.
 
 ---
 
-## 🧠 Applied AI
+## Project Areas
 
-![LLMs](https://img.shields.io/badge/LLMs-Model_Engineering-blue?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-blue?style=for-the-badge)
-![Embeddings](https://img.shields.io/badge/Embeddings-Vector_Search-blue?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-Agent_Framework-black?style=for-the-badge)
-
----
-
-## 📊 Analytics
-
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+- **Production service platforms** with REST APIs, WebSockets, dashboards and operational monitoring
+- **Real-time chat and chatbot systems** integrated with external channels, webhooks and session control
+- **BI and data automation** connecting SQL databases, spreadsheets, APIs and Power BI dashboards
+- **Airflow-orchestrated routines** for recurring data workflows and operational datasets
+- **Audio transcription services** with background processing and production deployment
+- **Internal business systems** for users, reports, requests, knowledge bases and administrative workflows
 
 ---
 
-## 🌐 Connect
+## Currently Learning
 
-🌎 **Portfolio** → [matheusgaldino.tech](https://matheusgaldino.tech)  
-💼 **LinkedIn** → [linkedin.com/in/matheus-galdino-668061255](https://www.linkedin.com/in/matheus-galdino-668061255)  
-📧 **Email** → mgaldino2@gmail.com
+![AWS](https://img.shields.io/badge/AWS-Learning-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+I am currently expanding my cloud knowledge with AWS, focusing on how cloud services can support backend systems, data workflows and deployment practices.
+
+---
+
+## Complementary Training
+
+Selected Alura tracks and courses:
+
+- **Data Science, SQL and Airflow** — Python for Data Science, Pandas, NumPy, SQL, data analysis, Apache Airflow and MySQL administration
+- **JavaScript backend and real-time systems** — JavaScript, Node.js, algorithms, OOP and WebSockets with Socket.IO
+- **Frontend and web foundations** — React, React Router, JavaScript in the browser, HTML, CSS, responsive layouts, forms, DOM and API consumption
+
+Certificate period: **11/2022 to 06/2025**.
+
+---
+
+## Connect
+
+**Portfolio** -> [matheusgaldino.tech](https://matheusgaldino.tech)  
+**LinkedIn** -> [linkedin.com/in/matheus-galdino-668061255](https://www.linkedin.com/in/matheus-galdino-668061255)  
+**Email** -> mgaldino2@gmail.com
 
 ---
 
