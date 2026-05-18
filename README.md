@@ -18,7 +18,7 @@ Building production backend services, data automations and BI-ready systems for 
 
 I'm a **Backend Developer and Data Engineer from Brazil**, with a full-stack background and a strong focus on **APIs, data/BI, integrations and automation**.
 
-Since 2016, I have worked on websites, landing pages, web scraping, Excel automation, SQL data consolidation and internal business tools. In corporate environments, I have led backend development and owned data/integration initiatives for production on-premise systems, including Apache Airflow orchestration and work across requirements, technical design, implementation, deployment, support and maintenance.
+Since 2016, I have worked on websites, landing pages, web scraping, Excel automation, SQL data consolidation and internal business tools, serving **40+ freelance clients**, delivering **20+ websites** and creating **50+ office/data automations**. In corporate environments, I have led backend development and owned data/integration initiatives for production on-premise systems, including Apache Airflow orchestration and work across requirements, technical design, implementation, deployment, support and maintenance.
 
 I am currently pursuing a **Postgraduate Degree in Software Engineering with Applied AI** and hold a degree in **Big Data and Analytical Intelligence**.
 
@@ -30,6 +30,9 @@ I am currently pursuing a **Postgraduate Degree in Software Engineering with App
 - Integrated around **10 corporate/external APIs**
 - Delivered around **15 BI dashboards**
 - Created around **25 data automation routines**
+- Served **40+ freelance clients**
+- Delivered **20+ websites and landing pages**
+- Built **50+ office automations**, including web scraping, ETL, spreadsheets and SQL data consolidation
 - Worked on production systems covering APIs, BI, WebSockets, chatbots, dashboards, webhooks, audio transcription and internal platforms
 
 ---
